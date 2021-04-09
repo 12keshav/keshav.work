@@ -1,0 +1,46 @@
+
+.ToolFooter{
+    padding: 40px 40px;
+    background: #3c3c3c;
+    ul{
+        li{
+            h2{
+                font-size: 45px;
+                font-family: 'Josefin Sans', sans-serif;
+                color: #c0ff00;
+                font-weight: 300;
+                margin-bottom: 2rem;
+            }
+            h3{
+                font-size: 25px;
+                font-family: 'Raleway', sans-serif;
+                color: #fff;
+                font-weight: 400;
+                line-height: normal;
+            }
+           
+        }
+    }
+    .SocialFooter{
+        li{
+            float: left;
+            p{
+                a{
+                    font-size: 20px;
+                    font-family: 'Raleway', sans-serif;
+                    color: #fff;
+                    font-weight: 400;
+                    text-decoration: underline;
+                    margin-right: 48px;
+                    transition: .3s;
+                }
+                a:hover{
+                    text-decoration: unset;
+                    transition: .3s;
+
+                }
+             
+            }
+        }
+    }
+}

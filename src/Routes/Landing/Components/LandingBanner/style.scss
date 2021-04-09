@@ -1,0 +1,24 @@
+.LandingBaner{
+    padding-top: 9rem;
+    h1{
+        font-family: 'Josefin Sans', sans-serif;
+    font-size: 59px;
+    color: #fff;
+    font-weight: 300;
+    line-height: 80px;
+    max-width: 100%;
+    strong{
+        color: #1a1919;
+        font-weight: 700;
+        -webkit-text-stroke: 1px #e4ff00cf;
+        background: #e4ff00cf;
+
+    }
+    strong:hover{
+        background:none;
+    }
+    span{
+        color: #d0f859;
+    }
+    }
+}

@@ -1,0 +1,46 @@
+.MeIntroduce{
+    padding: 9rem 0;
+    ul{
+
+        li{
+             h1{
+                font-size: 42px;
+                color: #fff;
+                line-height: 44px;
+                font-family: 'Josefin Sans';
+                font-weight: 400;
+                 margin-bottom: 3rem;
+               
+             }
+            p{
+                font-family: 'Raleway', sans-serif;
+                font-size: 18px;
+                color: #fff;
+                margin-bottom: 0;
+                line-height: 36px;
+                font-weight: 300;
+                letter-spacing: 1px;
+                span{
+                    color:#c0ff00;
+                    font-weight: 400;
+                }
+            }
+            a{
+              
+                color: #d75a4a !important;
+                font-size: 18px;
+                margin-top: 15px;
+                font-family: 'Raleway';
+                display: block;
+               
+                svg{
+                    margin-top: -2px;
+                }
+            }
+
+            img{
+                border-radius: 50%;
+            }
+        }
+    }
+}

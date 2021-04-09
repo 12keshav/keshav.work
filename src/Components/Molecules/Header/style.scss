@@ -1,0 +1,32 @@
+.ToolHeader{
+    width: 100%;
+    padding: 0 35px;
+    .navbar{
+        .navbar-brand{
+            font-family: 'Josefin Sans', sans-serif;
+            font-size: 29px;
+            color: #fff;
+            padding: 15px 0;
+            font-weight: 900;
+            }
+            .navbar-collapse{
+                ul{
+                    li{
+                        margin-right: 35px;
+                        a{
+                            font-family: 'Raleway', sans-serif;
+                            font-size: 20px;
+                            color: #fff;
+                            font-weight: 500;
+                            transition: .3s;
+                            cursor: pointer;
+                            padding: 0%;
+                        }
+                        a:hover{
+                            color: #f0eeee;
+                        }
+                    }
+                }
+            }
+       }
+  }

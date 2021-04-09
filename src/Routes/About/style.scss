@@ -1,0 +1,51 @@
+.ToolAboutPage{
+    width: 100%;
+    margin: 0 auto;
+    display:block;
+
+    .ToolLilBit{
+        padding: 60px 0;
+        width: 70%;
+    margin: 0 auto;
+        display: block;
+        ul{
+            li{
+                h1{
+                    font-size: 42px;
+                    color: #fff;
+                    font-family: 'Josefin Sans';
+                    font-weight: 400;
+                    margin-bottom: 2rem;
+                }
+                p{
+                    font-family: 'Raleway', sans-serif;
+                    font-size: 18px;
+                    color: #fff;
+                    margin-bottom: 0;
+                    line-height: 36px;
+                    font-weight: 300;
+                    letter-spacing: 1px;
+                }
+            }
+        }
+    }
+    .ToolMyValues{
+        width: 100%;
+       display: block;
+       padding: 40px 20px;
+       border-radius: 16px;
+       background: linear-gradient(
+315deg
+, #191919, #404040);
+    box-shadow: -8px -8px 13px #0e0b0b, 8px 8px 13px #272727;
+margin-bottom: 4rem;
+       h1{
+        font-size: 36px;
+        font-family: 'Josefin Sans';
+        color: #ffff;
+        font-weight: 500;
+       }
+
+     
+    }
+}
