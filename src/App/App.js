@@ -9,11 +9,11 @@ function App() {
     <>
        <AppRoutes />
        <AnimatedCursor
-      innerSize={8}
-      outerSize={14}
+      innerSize={12}
+      outerSize={20}
       color='173, 249, 26'
       outerAlpha={0.2}
-      innerScale={0.7}
+      innerScale={0.5}
       outerScale={4}
       />
     </>
